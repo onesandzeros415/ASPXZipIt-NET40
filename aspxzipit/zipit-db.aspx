@@ -22,6 +22,7 @@
                     ASPXZipit Backup Utility
                 </div>
                 <h2>Available Database Backups</h2>
+                <br />
                 <asp:LoginStatus ID="LoginStatus1" runat="server" />
                 <br />
             </center>

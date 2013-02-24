@@ -71,6 +71,7 @@
                     ASPXZipit Backup Utility
                 </div>
                 <h2>ASPXZipIt Event Log Viewer</h2>
+                <br />
                 <asp:LoginStatus ID="LoginStatus1" runat="server" />
                 <br />
                 <br />
